@@ -1,6 +1,11 @@
 # Fresh-Produce-Mall-System
 【万字文档+源码】基于SpringBoot+Vue的水果蔬菜商城系统 -学习项目资料分享-本项目基于 SpringBoot+Vue 前后端分离架构，打造集用户消费、商家入驻、商品管理、订单处理于一体的水果蔬菜商城系统，为消费者提供便捷的线上果蔬购买渠道，同时为商家提供高效的线上运营管理平台，推动果蔬零售行业的数字化升级
 
+
+---
+# 资料获取  点击  [**《【万字文档+源码】基于SpringBoot+Vue的水果蔬菜商城系统》资料**](https://nwqbsc0rm1n.feishu.cn/docx/QnFZdiPRloKSzwxY7hdc6MLUnlb)
+---
+
 ## 一、项目概述
 
 
